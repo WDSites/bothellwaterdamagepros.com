@@ -308,3 +308,6 @@ body{font-size:16.5px}
 .contactgrid a,.contactgrid address{overflow-wrap:anywhere}
 .contactgrid .btn{padding:14px 18px}
 @media(max-width:380px){.btn{padding:14px 18px}.midcta .btn,.ctaband .btn{max-width:100%}}
+
+.card .thumb{display:block;margin:-26px -26px 18px;overflow:hidden;border-radius:var(--radius) var(--radius) 0 0}
+.card .thumb img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
