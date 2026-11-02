@@ -311,3 +311,5 @@ body{font-size:16.5px}
 
 .card .thumb{display:block;margin:-26px -26px 18px;overflow:hidden;border-radius:var(--radius) var(--radius) 0 0}
 .card .thumb img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+
+.article p,.article li{overflow-wrap:anywhere}
